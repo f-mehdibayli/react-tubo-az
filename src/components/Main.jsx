@@ -1,7 +1,7 @@
 function Main({ data }) {
 
   return (
-    <main className='w-screen min-h-[80vh]'>
+    <main className='min-h-[80vh]'>
       <section className="min-w-[1010px] bg-[#f1f3f7] border-t border-y-solid border-t-[#eaebf2] border-b-[#eaebf2] ">
         <div className="w-[1010px] m-auto px-[19px] py-[22px] font-[700] uppercase">
           Premium elanlar
